@@ -9,7 +9,7 @@ Forage app allows users to keep track of items, food for example, that they've f
 ![ForageDemo](https://user-images.githubusercontent.com/33487695/172335749-53104827-80e3-40d2-a3ce-a8012e83f04e.gif)
 
 
-## Installation
+## Installation 👇
 
 You can Install and test latest Forage App from below (APK file)
 https://drive.google.com/file/d/1FLgj8LM7p1K5u4zw7k55k0AKNpgxnfOv/view?usp=sharing
@@ -28,7 +28,7 @@ https://drive.google.com/file/d/1FLgj8LM7p1K5u4zw7k55k0AKNpgxnfOv/view?usp=shari
    - **Room** - SQLite object mapping library.
 
 
-## Roadmap
+## Roadmap 👨‍💻
 
 - Migrate UI to responsive layouts.
 
