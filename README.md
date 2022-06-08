@@ -12,7 +12,7 @@ Forage app allows users to keep track of items, food for example, that they've f
 ## Installation 👇
 
 You can Install and test latest Forage App from below (APK file)
-https://drive.google.com/file/d/1FLgj8LM7p1K5u4zw7k55k0AKNpgxnfOv/view?usp=sharing
+[Forage App](https://drive.google.com/file/d/1FLgj8LM7p1K5u4zw7k55k0AKNpgxnfOv/view?usp=sharing)
 
     
 ## Built With 🛠
