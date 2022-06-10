@@ -27,6 +27,8 @@ You can Install and test latest Forage App from below (APK file)
    - **ViewModel** - Stores UI-related data that isn't destroyed on UI changes.
    - **ViewBinding** - Generates a binding class for each XML layout file present in that module and allows you to more easily write code that interacts with views.
    - **Room** - SQLite object mapping library.
+   - **Navigation**  - Android Jetpack's Navigation component helps you implement navigation.
+ - **MVVM** Architecture. 
 
 
 ## Roadmap 👨‍💻
